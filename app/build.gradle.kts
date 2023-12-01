@@ -91,12 +91,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
-
-    //    implementation("com.google.android.horologist:horologist-tiles:0.1.5")
-//    implementation("androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1")
-    //    implementation("androidx.wear.tiles:tiles:1.2.0")
-//    implementation("androidx.wear.tiles:tiles-material:1.2.0")
-    //    implementation("androidx.percentlayout:percentlayout:1.0.0")
-//    implementation("androidx.legacy:legacy-support-v4:1.0.0")
-//    implementation("androidx.recyclerview:recyclerview:1.3.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.1.1")
 }
