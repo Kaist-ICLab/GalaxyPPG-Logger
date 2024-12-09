@@ -1,5 +1,4 @@
-
-#GalaxyPPG-Logger
+# GalaxyPPG-Logger
 
 This repository is deprecated (2024.08).
 
